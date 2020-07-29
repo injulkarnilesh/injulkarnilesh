@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+	<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+	<img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+	<img src="https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+</p>
 
-<!--
-**injulkarnilesh/injulkarnilesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+	<img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+	<img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+	<img src="https://img.shields.io/badge/Kafka-blueviolet?style=for-the-badge&logo=kafka&logoColor=white" alt="Kafka">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+	<img src="https://img.shields.io/badge/ElasticSearch-orange?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic Search">
+	<img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+</p>
