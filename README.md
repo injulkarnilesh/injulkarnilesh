@@ -16,6 +16,8 @@
 	<a href="#"><img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"></a>
 </p>
 
+<hr>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/injulkarnilesh/">
 	   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
