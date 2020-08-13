@@ -25,8 +25,8 @@
     <a href="https://www.goodreads.com/user/show/18638623-nilesh-injulkar">
 	   <img src="https://img.shields.io/badge/GoodReads-yellowgreen?style=for-the-badge&logo=goodreads&logoColor=white" alt="GoodReads">
     </a>
-    <a href="https://medium.com/@injulkarnilesh">
-	   <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <a href="injulkarnilesh.github.io">
+	   <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
     </a>
     <a href="mailto:injulkarnilesh@gmail.com">
 	   <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
