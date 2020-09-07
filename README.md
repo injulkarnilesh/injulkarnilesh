@@ -25,7 +25,7 @@
     <a href="https://www.goodreads.com/user/show/18638623-nilesh-injulkar">
 	   <img src="https://img.shields.io/badge/GoodReads-yellowgreen?style=for-the-badge&logo=goodreads&logoColor=white" alt="GoodReads">
     </a>
-    <a href="injulkarnilesh.github.io">
+    <a href="https://injulkarnilesh.github.io/">
 	   <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
     </a>
     <a href="mailto:injulkarnilesh@gmail.com">
