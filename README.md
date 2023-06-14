@@ -1,7 +1,7 @@
 <p align="center">
 	<a href="#"><img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
 	<a href="#"><img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"></a>
-	<a href="#"><img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
 </p>
 
 <p align="center">
